@@ -82,7 +82,6 @@ loginBtn.onclick = async () => {
     }
   });
 
-  https://yzysamson.github.io/airbnb-booking/
   if (error) {
     if (error.status === 429) {
       alert(
